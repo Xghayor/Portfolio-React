@@ -26,7 +26,7 @@ const Work = () => {
                   <img src={sampleImage} alt="" />
                 </div>
                 <div className="work_sample_site_btn">
-                  <a href="#"
+                  <a href="country-metrics-app.vercel.app"
                     >view project<i className="fa-solid fa-arrow-right"></i></a>
                 </div>
                 <div className="work_sample_site_btn over">
@@ -47,7 +47,7 @@ const Work = () => {
                   <img src={sampleTwo} alt="" />
                 </div>
                 <div className="work_sample_site_btn">
-                  <a href="#"
+                  <a href="https://xghayor.github.io/Portfolio/"
                     >view project<i className="fa-solid fa-arrow-right"></i></a>
                 </div>
                 <div className="work_sample_site_btn over">
@@ -68,7 +68,7 @@ const Work = () => {
                   <img src={sampleThree} alt="" />
                 </div>
                 <div className="work_sample_site_btn">
-                  <a href="#"
+                  <a href="https://xghayor.github.io/Music-Festival/"
                     >view project<i className="fa-solid fa-arrow-right"></i></a>
                 </div>
                 <div className="work_sample_site_btn over">
