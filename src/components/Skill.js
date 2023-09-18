@@ -30,7 +30,7 @@ const Skills = () => {
               </div>
               <div className="skill_buble_desc">
                 <div className="desc_block">
-                  <h3>Level</h3>
+                  <h3>Level 70%</h3>
                   <div className="progress">
                     <div
                       className="progress-bar w-75"
@@ -63,7 +63,7 @@ const Skills = () => {
               </div>
               <div className="skill_buble_desc">
                 <div className="desc_block">
-                  <h3>Level</h3>
+                  <h3>Level 80%</h3>
                   <div className="progress">
                     <div
                       className="progress-bar w-75"
@@ -96,7 +96,7 @@ const Skills = () => {
               </div>
               <div className="skill_buble_desc">
                 <div className="desc_block">
-                  <h3>Level</h3>
+                  <h3>Level 80%</h3>
                   <div className="progress">
                     <div
                       className="progress-bar w-75"
@@ -129,7 +129,7 @@ const Skills = () => {
               </div>
               <div className="skill_buble_desc">
                 <div className="desc_block">
-                  <h3>Level</h3>
+                  <h3>Level  80%</h3>
                   <div className="progress">
                     <div
                       className="progress-bar w-75"
@@ -162,7 +162,7 @@ const Skills = () => {
               </div>
               <div className="skill_buble_desc">
                 <div className="desc_block">
-                  <h3>Level</h3>
+                  <h3>Level  80%</h3>
                   <div className="progress">
                     <div
                       className="progress-bar w-75"
@@ -195,7 +195,7 @@ const Skills = () => {
               </div>
               <div className="skill_buble_desc">
                 <div className="desc_block">
-                  <h3>Level</h3>
+                  <h3>Level  80%</h3>
                   <div className="progress">
                     <div
                       className="progress-bar w-75"

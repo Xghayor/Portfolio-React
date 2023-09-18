@@ -18,8 +18,8 @@ const Work = () => {
           <div className="work_sample_block_outterwrap">
             <div className="work_sample_block site_container">
               <div className="work_sample_title">
-                <h3><span>01</span>Alter Ego</h3>
-                <p>Edibles Website</p>
+                <h3><span>01</span>Country Metrics</h3>
+                <p>All Country Stats Webapp</p>
               </div>
               <div className="work_sample_site">
                 <div className="work_sample_image">
@@ -36,13 +36,11 @@ const Work = () => {
               </div>
             </div>
           </div>
-
-          {/* Repeat the following block for each additional work sample */}
           <div className="work_sample_block_outterwrap">
             <div className="work_sample_block site_container">
               <div className="work_sample_title">
-                <h3><span>02</span>Lorient Capital</h3>
-                <p>Health Care Website</p>
+                <h3><span>02</span>Portfolio Sample</h3>
+                <p>Portfolio website</p>
               </div>
               <div className="work_sample_site">
                 <div className="work_sample_image">
@@ -62,8 +60,8 @@ const Work = () => {
           <div className="work_sample_block_outterwrap">
             <div className="work_sample_block site_container">
               <div className="work_sample_title">
-                <h3><span>02</span>Lorient Capital</h3>
-                <p>Health Care Website</p>
+                <h3><span>02</span>Music Festival Event</h3>
+                <p>Music Festival Website</p>
               </div>
               <div className="work_sample_site">
                 <div className="work_sample_image">
