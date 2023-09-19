@@ -1,4 +1,4 @@
-![SnapShpot](../src/components/assets/portfolio.png)
+![SnapShpot](https://my-portfolio-nine-mu-12.vercel.app/)
 
 
 
