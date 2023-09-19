@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-![SnapShpot](../portfolio/src/components/assets/portfolio.png)
+![SnapShpot](../src/components/assets/portfolio.png)
 
 
 
 # Getting Started with Create React App
-=======
 # My React Portfolio
->>>>>>> f37b397e02a00a9ac91023349cac9a1b2806d905
 
 ## Introduction
 
@@ -38,6 +35,10 @@ This is my personal portfolio website built using React. It showcases my skills,
 ### 4. Resume
 
 - Link to my resume in PDF format for download.
+
+### 4. Future Feature
+
+- Mobile Responsive
 
 ### 5. Contact
 
