@@ -15,7 +15,7 @@ const Banner = () => {
           I deliver captivating user experiences. 
           My portfolio reflects the seamless marriage of design and functionality. Explore my work today.
           </p>
-          <div className="banner_btn"><a href="#">Let's Talk</a></div>
+          <div className="banner_btn"><a href="https://www.linkedin.com/in/ghayoorulbaqir/">Let's Talk</a></div>
         </div>
         <div className="banner_image_block">
           <img src={bannerImage} alt="banner-image" />

@@ -16,7 +16,7 @@ const Footer = () => {
           <h2>let's Work Together</h2>
           <p>I am available for full-time work</p>
           <div className="footer_btn">
-            <a href="#">
+            <a href="/contact">
               Say Hello <FontAwesomeIcon icon={solidArrowRight} />
             </a>
           </div>

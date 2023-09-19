@@ -26,7 +26,7 @@ const Header = () => {
           </li>
         </ul>
         <div className="site_btn">
-          <a href="#"><span></span>Let's Work Together</a>
+          <a href="/contact"><span></span>Let's Work Together</a>
         </div>
       </nav>
     </header>

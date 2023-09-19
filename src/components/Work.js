@@ -26,11 +26,11 @@ const Work = () => {
                   <img src={sampleImage} alt="" />
                 </div>
                 <div className="work_sample_site_btn">
-                  <a href="country-metrics-app.vercel.app"
+                  <a href="https://country-metrics-app-git-review-xghayor.vercel.app/"
                     >view project<i className="fa-solid fa-arrow-right"></i></a>
                 </div>
                 <div className="work_sample_site_btn over">
-                  <a href="#"
+                  <a href="https://country-metrics-app-git-review-xghayor.vercel.app/"
                     >view project<i className="fa-solid fa-arrow-right"></i></a>
                 </div>
               </div>
@@ -51,7 +51,7 @@ const Work = () => {
                     >view project<i className="fa-solid fa-arrow-right"></i></a>
                 </div>
                 <div className="work_sample_site_btn over">
-                  <a href="#"
+                  <a href="https://xghayor.github.io/Portfolio/"
                     >view project<i className="fa-solid fa-arrow-right"></i></a>
                 </div>
               </div>
@@ -60,7 +60,7 @@ const Work = () => {
           <div className="work_sample_block_outterwrap">
             <div className="work_sample_block site_container">
               <div className="work_sample_title">
-                <h3><span>02</span>Music Festival Event</h3>
+                <h3><span>03</span>Music Festival Event</h3>
                 <p>Music Festival Website</p>
               </div>
               <div className="work_sample_site">
@@ -72,7 +72,7 @@ const Work = () => {
                     >view project<i className="fa-solid fa-arrow-right"></i></a>
                 </div>
                 <div className="work_sample_site_btn over">
-                  <a href="#"
+                  <a href="https://xghayor.github.io/Music-Festival/"
                     >view project<i className="fa-solid fa-arrow-right"></i></a>
                 </div>
               </div>
